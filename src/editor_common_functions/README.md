@@ -1,5 +1,9 @@
 # 代码编辑器常用功能
 
+## 支持不同主题和字体
+
+[【记录】VSCode试试其他主题和字体和插件](https://www.crifan.com/vscode_trial_other_theme_font_plugin/)
+
 ## 显示特殊的不可见的控制字符
 
 设置显示控制字符：

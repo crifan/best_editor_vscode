@@ -55,7 +55,7 @@ pipenv install
 
 选择后，左下角就可以显示出当前所选Python了：
 
-![显示当前Python是刚所选虚拟环境](../../assets/img/showing_python_is_selected_virtualenv.png)
+![显示当前Python是刚所选虚拟环境](../../assets/img/showing_python_selected_virtualenv.png)
 
 ## 鼠标移动上去可以查看变量值
 
@@ -75,8 +75,38 @@ pipenv install
 
 而这类功能，之前只有比较高级的IDE，比如`Visual Studio`，`PyCharm`等才支持。
 
+## 支持异常信息的显示
+
+当调试代码时发生异常，则可以方便快速的显示异常堆栈错误信息：
+
+![VSCode显示Python异常信息](../../assets/img/show_python_exception_stack_info.png)
+
+且可以点击左下角的 调用堆栈，调转到对应代码位置：
+
+![从异常堆栈中快速定位文件](../../assets/img/click_stack_file_to_locate.png)
+
 ## 注意事项
 
 偶尔出现小问题，可参考：
 
+### 调试适配器进程意外终止
+
 [【已解决】VSCode调试Python出错：调试适配器进程意外终止Cannot read property 'style' of undefined](http://www.crifan.com/vscode_python_debugger_process_stopped_exceptionally_cannot_read_property_style_of_undefined)
+
+### 文件内容改动后断点错位
+
+有时候会遇到：当前面新增行后，后面的断点位置都移动了，错位了。
+
+比如此处，前面新增了2行，导致后面的，之前设置的断点，都错位了，无效了：
+
+![代码改动后断点错乱](../../assets/img/code_changed_breakpoint_messy.png)
+
+只能再：去掉之前断点，重新打断点：
+
+![重新给Python添加断点](../../assets/img/re_add_breakpoint_for_python.png)
+
+所以还是有点点麻烦的
+
+-》而PyCharm就可以很好的支持：当代码改动（不多）的时候，可以自动保持原有的断点的位置。
+
+-》不过后来也发现，此问题只是偶尔发生的。有时候代码改动后，断点还正常的。

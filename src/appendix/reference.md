@@ -11,3 +11,5 @@
 * [Multiline search](https://code.visualstudio.com/updates/v1_29#_multiline-search)
 * [Visual Studio Code 的正则匹配好用吗？ - 知乎](https://www.zhihu.com/question/31965411/answer/337406447)
 * [【已解决】后台导入csv文件后解析成功但导入失败](http://www.crifan.com/admin_import_csv_parse_ok_but_import_failed)
+* [【记录】VSCode试试其他主题和字体和插件](https://www.crifan.com/vscode_trial_other_theme_font_plugin/)
+* [【已解决】VSCode中搜索不到实际上是存在的字符串](http://www.crifan.com/vscode_search_not_found_actually_existed_string)
