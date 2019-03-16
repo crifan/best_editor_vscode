@@ -13,7 +13,7 @@
 
 后来也看到了工具栏中有显示快捷键：
 
-![VSCode->转到->前进 或 后退](../../assets/img/switch_to_back_or_forward.png)
+![VSCode->转到->前进 或 后退](../assets/img/switch_to_back_or_forward.png)
 
 ### 大小写转换
 
@@ -30,8 +30,8 @@
 
 另外，可以去搜到自己要的快捷键是什么：
 
-![Code->首选项->键盘快捷方式](../../assets/img/code_preference_keyboard_shortcut.png)
+![Code->首选项->键盘快捷方式](../assets/img/code_preference_keyboard_shortcut.png)
 
 然后就可以通过搜短横线`-`就可以找到对应的快捷键的功能是`上一步`：
 
-![搜短横线找到上一步](../../assets/img/search_hyphen_found_back.png)
+![搜短横线找到上一步](../assets/img/search_hyphen_found_back.png)

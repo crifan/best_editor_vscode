@@ -4,11 +4,11 @@
 
 当从已有的一个文件，复制并改名后，VSCode可以自动检测出来，提示是否需要更新import语句
 
-![是否更新已更新文件的import语句](../../assets/img/auto_update_renamed_import.png)
+![是否更新已更新文件的import语句](../assets/img/auto_update_renamed_import.png)
 
 即可自动更新import语句：
 
-![更新后的import语句](../../assets/img/updated_import_code.png)
+![更新后的import语句](../assets/img/updated_import_code.png)
 
 不过，此处更新后的内容不是我要的，竟然把本来正常的都改错误了，所以还要自己去改回来。以后慎用这个自动修改import的功能。
 
@@ -16,11 +16,11 @@
 
 `Command + P`后，输入（部分）文件名（支持模糊搜索）：
 
-![command+p后输入文件名](../../assets/img/command_pallet_input_name.png)
+![command+p后输入文件名](../assets/img/command_pallet_input_name.png)
 
 选中回车即可跳转文件：
 
-![快速跳转到对应文件](../../assets/img/fast_open_select_file.png)
+![快速跳转到对应文件](../assets/img/fast_open_select_file.png)
 
 ## log日志中点击文件路径可以跳转到该文件
 
@@ -38,8 +38,36 @@ if i['type'] == '0':
 TypeError: string indices must be integers
 ```
 
-![某个python错误日志文件](../../assets/img/python_log_error_file.png)
+![某个python错误日志文件](../assets/img/python_log_error_file.png)
 
 可以跳转到对应的文件：
 
-![跳转到log错误对应源码文件](../../assets/img/jump_to_log_related_file_position.png)
+![跳转到log错误对应源码文件](../assets/img/jump_to_log_related_file_position.png)
+
+方便调试。
+
+## 提示安装支持相应文件的插件
+
+首次打开`.env`，则提示是否要安装.env的插件，点击 搜索商店：
+
+![提示安装env插件](../assets/img/env_file_notice_install_plugin.png)
+
+然后点击安装插件：
+
+![安装DotEnv插件](../assets/img/install_dotenv_plugin.png)
+
+安装后，重启加载：
+
+![已安装好DotEnv插件](../assets/img/installed_dotenv_plugin_reload.png)
+
+然后.env就可以语法高亮了：
+
+![env文件语法高亮](../assets/img/env_file_highlight.png)
+
+另外类似的情况还有：
+
+首次打开vue提示安装对应的插件：
+
+![vue建议安装插件Vetur](../assets/img/recommend_vue_plugin_vetur.png)
+
+![安装Vetur插件](../assets/img/install_vetur_plugin.png)
