@@ -1,0 +1,13 @@
+# 参考资料
+
+* [这就是我想要的 VSCode 插件！ - 知乎](https://zhuanlan.zhihu.com/p/36020180)
+* [\[VSCode插件推荐\] Bracket Pair Colorizer: 为代码中的括号添上一抹亮色 - 知乎](https://zhuanlan.zhihu.com/p/54052970)
+* [【已解决】VSCode调试Python出错：调试适配器进程意外终止Cannot read property 'style' of undefined](http://www.crifan.com/vscode_python_debugger_process_stopped_exceptionally_cannot_read_property_style_of_undefined)
+* [30个极大提高开发效率的VSCode插件 - 知乎](https://zhuanlan.zhihu.com/p/40417719)
+* [Debugger for Chrome - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+* [【已解决】VSCode中对选中内容切换大小写的快捷键](http://www.crifan.com/vscode_selection_uppercase_lowcase_convert_shortcut_key)
+* [Visual Studio Code October 2018](https://code.visualstudio.com/updates/v1_29)
+* [Backreferences and lookahead in search](https://code.visualstudio.com/updates/v1_29#_backreferences-and-lookahead-in-search)
+* [Multiline search](https://code.visualstudio.com/updates/v1_29#_multiline-search)
+* [Visual Studio Code 的正则匹配好用吗？ - 知乎](https://www.zhihu.com/question/31965411/answer/337406447)
+* [【已解决】后台导入csv文件后解析成功但导入失败](http://www.crifan.com/admin_import_csv_parse_ok_but_import_failed)

@@ -1,0 +1,19 @@
+{
+  "title": "史上最好用的编辑器：VSCode",
+  "description": "介绍目前用过最好的用的编辑器VSCode的好用之处",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "best_editor_vscode"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/best_editor_vscode/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/best_editor_vscode/pdf/best_editor_vscode.pdf"
+    }
+  }
+}
