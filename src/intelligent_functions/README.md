@@ -71,3 +71,36 @@ TypeError: string indices must be integers
 ![vue建议安装插件Vetur](../assets/img/recommend_vue_plugin_vetur.png)
 
 ![安装Vetur插件](../assets/img/install_vetur_plugin.png)
+
+## 根据路径动态提示文件
+
+刚新建个文件夹，加入了几个js文件后，然后再去html中输入路径后，即可动态匹配路径和文件：
+
+![动态匹配出文件夹](../assets/img/file_path_hint_folder.png)
+
+![智能匹配列出文件名](../assets/img/auto_list_match_file.png)
+
+很是智能和贴心。
+
+## 显示大纲
+
+VSCode 1.24版本支持支持`大纲`=`Outline`=`目录`：
+
+> Preview: Outline view - Symbol tree outline and navigation for your projects.
+
+右键项目条，选中 大纲：
+
+![右键显示大纲](../assets/img/project_right_show_outline.png)
+
+点击大纲中的某行后，可以跳转到对应位置，比如：
+
+* Markdown：
+  * ![Markdown中大纲点击跳转效果](../assets/img/outline_jump_markdown.png)
+* Html
+  * ![HTML中大纲点击跳转效果](../assets/img/outline_jump_html.png)
+
+## 未使用变量检测
+
+VSCode 1.24版本支持支持自动检测未使用的变量的提示：
+
+> Unused variable detection - Unused variables are greyed-out in your JavaScript/TypeScript files

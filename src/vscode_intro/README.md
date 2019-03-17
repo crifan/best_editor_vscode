@@ -1,8 +1,8 @@
 # VSCode简介
 
-目前常见的`编辑器(Editor)`，`IDE`很多，之前也有总结：[编辑器和IDE总结](http://book.crifan.com/books/editor_ide_summary/website)。
+对于`代码编辑器`=`Editor`，`IDE`来说，目前有很多种。
 
-对于代码编辑器来说，之前用过很多，比如：
+尤其是编辑器方面，自己之前也用过很多，比如：
 
 * Win平台
   * Notepad2
@@ -14,9 +14,12 @@
   * `Sublime`
   * 等等
 
-除了Win平台中[Notepad++](https://www.crifan.com/files/doc/docbook/rec_soft_npp/release/html/rec_soft_npp.html)还算不错外，其他都不够好用
+除了Win平台中[Notepad++](https://www.crifan.com/files/doc/docbook/rec_soft_npp/release/html/rec_soft_npp.html)还算不错外，其他很多都不够好用。
 
 `VSCode`=`Visual Studio Code`，是目前用过的**最好用**的、`跨平台`的、`免费`的、编辑器。
+
+> #### info:: 关于常见的编辑器和IDE的总结
+> 详见：[编辑器和IDE总结](http://book.crifan.com/books/editor_ide_summary/website)
 
 ## VSCode的优点
 

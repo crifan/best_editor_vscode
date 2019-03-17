@@ -1,5 +1,21 @@
 # 语法高亮
 
+设置文件和代码的语法高亮：
+
+对于未保存的文件时，需要设置文件类型-〉才能使得语法高亮生效
+
+比如新建文件，粘贴html代码，此时代码无法自动高亮
+
+![新拷贝的html代码不能高亮](../assets/img/newly_copy_html_no_highlight.png)
+
+点击右下角的`纯文本`，在弹出的语言列表中选择`HTML`：
+
+![切换语言为HTML](../assets/img/pure_text_change_to_html.png)
+
+即可看到HTML代码高亮的效果了：
+
+![HTML代码高亮的效果](../assets/img/html_highlight_effect.png)
+
 ## 支持log类型的语法高亮
 
 无意间发现，VSCode连log格式，都可以支持，都可以语法高亮：
