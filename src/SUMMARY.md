@@ -1,4 +1,4 @@
-# Gitbook演示
+# 史上最好用的编辑器：VSCode
 
 * [前言](README.md)
 * [VSCode简介](vscode_intro/README.md)
