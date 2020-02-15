@@ -13,3 +13,4 @@
 * [【已解决】后台导入csv文件后解析成功但导入失败](http://www.crifan.com/admin_import_csv_parse_ok_but_import_failed)
 * [【记录】VSCode试试其他主题和字体和插件](https://www.crifan.com/vscode_trial_other_theme_font_plugin/)
 * [【已解决】VSCode中搜索不到实际上是存在的字符串](http://www.crifan.com/vscode_search_not_found_actually_existed_string)
+* [【已解决】VSCode中插件Paste Image的粘贴图片快捷键Command+Alt+V失效 – 在路上](https://www.crifan.com/vscode_plugin_paste_image_shortcut_command_alt_v_not_work/)
