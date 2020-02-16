@@ -14,3 +14,10 @@
 * [【记录】VSCode试试其他主题和字体和插件](https://www.crifan.com/vscode_trial_other_theme_font_plugin/)
 * [【已解决】VSCode中搜索不到实际上是存在的字符串](http://www.crifan.com/vscode_search_not_found_actually_existed_string)
 * [【已解决】VSCode中插件Paste Image的粘贴图片快捷键Command+Alt+V失效 – 在路上](https://www.crifan.com/vscode_plugin_paste_image_shortcut_command_alt_v_not_work/)
+* [【已解决】VSCode中调试Python代码](http://www.crifan.com/mac_vscode_debug_python_code_file)
+* [【记录】用VSCode开发和调试Python](http://www.crifan.com/use_vscode_develop_debug_python)
+* [让你人生不苦短的编程语言：Python](https://book.crifan.com/books/make_life_better_python/website/)
+* [【已解决】windows中安装VSCode](http://www.crifan.com/windows_install_vscode_editor)
+* [【记录】Windows中新建VSCode的Python项目](http://www.crifan.com/windows_vscode_create_new_python_project)
+* [【记录】Windows中用VSCode去调试Python项目代码文件](http://www.crifan.com/windows_vscode_debug_python_project_file)
+* 
