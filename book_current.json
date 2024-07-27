@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/best_editor_vscode/website/"
+      "prefix": "https://book.crifan.org/books/best_editor_vscode/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/best_editor_vscode/pdf/best_editor_vscode.pdf"
+      "url": "https://book.crifan.org/books/best_editor_vscode/pdf/best_editor_vscode.pdf"
     }
   }
 }
