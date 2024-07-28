@@ -6,7 +6,7 @@ VSCode内置了终端：
 
 即可打开自带集成的终端：
 
-![VSCode自带终端](../assets/img/self_integrated_terminal.png)
+![VSCode自带终端](../assets/img/self_integrated_terminal.jpg)
 
 不用再去切换到外部的终端命令行：
 

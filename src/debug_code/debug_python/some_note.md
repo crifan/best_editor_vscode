@@ -107,5 +107,5 @@ pipenv install
 
 且可以点击左下角的 调用堆栈，调转到对应代码位置：
 
-![从异常堆栈中快速定位文件](../../assets/img/click_stack_file_to_locate.png)
+![从异常堆栈中快速定位文件](../../assets/img/click_stack_file_to_locate.jpg)
 

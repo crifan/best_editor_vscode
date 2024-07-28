@@ -4,7 +4,7 @@
 
 先把字符串内容粘贴过去。默认的文件格式是`纯文本`，所以去设置为`JSON`
 
-![设置代码格式json](../assets/img/set_format_json.png)
+![设置代码格式json](../assets/img/set_format_json.jpg)
 
 然后再去右键-》`格式化文件`
 

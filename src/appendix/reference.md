@@ -1,5 +1,7 @@
 # 参考资料
 
+* 【已解决】Mac M2 Max中恢复Honkit的电子书制作工具Calibre的ebook-convert
+* 
 * [这就是我想要的 VSCode 插件！ - 知乎](https://zhuanlan.zhihu.com/p/36020180)
 * [\[VSCode插件推荐\] Bracket Pair Colorizer: 为代码中的括号添上一抹亮色 - 知乎](https://zhuanlan.zhihu.com/p/54052970)
 * [【已解决】VSCode调试Python出错：调试适配器进程意外终止Cannot read property 'style' of undefined](http://www.crifan.com/vscode_python_debugger_process_stopped_exceptionally_cannot_read_property_style_of_undefined)

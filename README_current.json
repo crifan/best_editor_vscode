@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.3.0",
-  "lastUpdate": "20240727",
+  "latestVersion": "v1.3.2",
+  "lastUpdate": "20240728",
   "gitRepoName": "best_editor_vscode",
   "bookName": "史上最好用的编辑器：VSCode",
   "bookDescription": "介绍史上用过的最好用的编辑器VSCode，以及各种好用的功能，包括但不限于常用快捷键，调试Python，常用插件，搜索功能，包括正则搜索，文件编码，git仓库代码管理，各种主题字体和插件，强大好用的插件市场，代码格式化等等各种好用的功能，且性能优越。是目前最值得推荐的编辑器，没有之一。"

@@ -6,6 +6,6 @@
 
 `Command + 鼠标点击`，可以找到此处js的函数定义：
 
-![可以跳转到函数定义](../assets/img/jump_to_function_definition.png)
+![可以跳转到函数定义](../assets/img/jump_to_function_definition.jpg)
 
 效果不错。
