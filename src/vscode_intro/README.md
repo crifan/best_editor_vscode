@@ -18,8 +18,8 @@
 
 `VSCode`=`Visual Studio Code`，是目前用过的**最好用**的、`跨平台`的、`免费`的、编辑器。
 
-> #### info:: 关于常见的编辑器和IDE的总结
-> 详见：[编辑器和IDE总结](http://book.crifan.com/books/editor_ide_summary/website)
+> [!TIP|tile:关于常见的编辑器和IDE的总结]
+> 详见：[编辑器和IDE总结](http://book.crifan.org/books/editor_ide_summary/website)
 
 ## VSCode的优点
 
